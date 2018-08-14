@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+www.go-goal.com	FALSE	/	FALSE		ASP.NET_SessionId	p2eazugocgn3l2eiwozf4uh5
+www.go-goal.com	FALSE	/	FALSE	1527704647	go-goal	login_name=F00025515&user_id=395370&user_name=%e5%88%98%e5%9d%a4&group=2&role=173,172,168&popedom=2003&validdate=2050/1/1 0:00:0&status=1&login_id=338506&org_id=0&integral=0&isResearch=1&token=07d1a34492d5439c87c830a72cc79cfa&Encrypttoken=CD9727C9AF3FCCB11F3CC7AFAD67AA0426AECF1BE6F729499E2101A7A73CA4D1BCAF7E52652E0574
